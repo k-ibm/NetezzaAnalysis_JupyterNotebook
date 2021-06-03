@@ -1,1 +1,1 @@
-# test_NPS
+# Netezza Performance Server
